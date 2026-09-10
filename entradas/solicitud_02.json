@@ -1,0 +1,6 @@
+{
+  "ticket_id": "T-002",
+  "request": "Necesito una copia de la factura",
+  "order_status": "delivered",
+  "refund_usd": 0
+}

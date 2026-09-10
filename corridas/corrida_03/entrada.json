@@ -1,0 +1,6 @@
+{
+  "ticket_id": "T-003",
+  "request": "Solicito reembolso de USD 150",
+  "order_status": "returned",
+  "refund_usd": 150
+}
